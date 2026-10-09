@@ -1,7 +1,7 @@
 # 🏥 Insurance Claims Analysis Dashboard — Excel + Power BI
 
 ## 📌 Project Overview
-End-to-end insurance claims analysis project covering **5,000+ claims records** across Health, Motor, and Property categories. Built dashboards to track monthly claim volume, settlement rates, handler performance, and operational efficiency.
+End-to-end insurance claims analysis project covering a **sample of 30 claims** across Health, Motor, and Property categories. Built dashboards to track monthly claim volume, settlement rates, handler performance, and operational efficiency.
 
 ---
 
@@ -19,7 +19,7 @@ End-to-end insurance claims analysis project covering **5,000+ claims records** 
 ---
 
 ## 🔑 Key Insight
-> **Uncovered a 22% spike in unresolved (Pending) claims during Q3 (Mar–Apr), particularly in the North region — surfaced root-cause insights to improve operational efficiency and reduce settlement time.**
+> **Pending (unresolved) claims cluster in March–April, the period to investigate first for settlement delays. Overall settlement rate is ~73%.**
 
 ---
 
@@ -51,7 +51,7 @@ insurance-claims-dashboard/
 ## 📊 Key Findings
 - **Health claims** are the most frequent claim type (12 out of 30)
 - Overall **Settlement Rate: ~73%** — 22 out of 30 claims settled
-- **4 claims remain Pending** — concentrated in Q2 (Mar–Apr spike)
+- **4 claims remain Pending** — concentrated in March–April
 - **Ravi Kumar** handles the highest claim volume
 - **Property claims** have the highest average claim amount (₹3,00,000+)
 - Average days to settle: **~16 days** for settled claims
@@ -69,4 +69,4 @@ insurance-claims-dashboard/
 ## 👤 Author
 **Amarjot Singh Chawla**
 B.Tech ECE (IoT) — NSUT Delhi
-[LinkedIn](https://linkedin.com/in/amarjotsinghchawla) | [GitHub](https://github.com/amarjot0987-desgin)
+[LinkedIn](https://www.linkedin.com/in/amarjot-singh-chawla-02b168422/) | [GitHub](https://github.com/amarjot0987-design)
